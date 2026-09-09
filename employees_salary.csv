@@ -1,0 +1,13 @@
+ID,Employee Name,Department,Job Title,Hire Date,Annual Salary,Bonus,Location
+001,Maria Gonzalez,Sales,Sales Manager,2019-03-14,78500,5200,"New York, NY"
+002,David Chen,Engineering,Senior Software Engineer,2018-06-01,128000,12000,"San Francisco, CA"
+003,Sarah Thompson,Marketing,Marketing Specialist,2021-09-10,62000,2500,"Chicago, IL"
+004,Amara Okafor,Human Resources,HR Business Partner,2020-01-22,85000,4000,"Atlanta, GA"
+005,Liam O'Brien,Finance,Financial Analyst,2022-04-18,71200,3000,"Boston, MA"
+006,Priya Sharma,Engineering,Data Scientist,2019-11-05,115000,9500,"Austin, TX"
+007,James Whitfield,Operations,Operations Director,2016-02-28,142000,15000,"Dallas, TX"
+008,Elena Petrova,Customer Success,Customer Success Manager,2021-07-19,68000,3200,"Denver, CO"
+009,Marcus Reid,Sales,Account Executive,2023-01-09,59500,6800,"Miami, FL"
+010,Yuki Tanaka,Product,Product Manager,2020-08-03,110000,8000,"Seattle, WA"
+011,Fatima Al-Sayed,Legal,Corporate Counsel,2017-10-16,135000,6000,"Washington, DC"
+012,Noah Bergström,IT,IT Systems Administrator,2022-02-14,74000,2000,"Minneapolis, MN"
